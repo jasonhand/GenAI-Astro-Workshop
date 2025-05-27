@@ -1,7 +1,7 @@
 # Building Web Sites with Astro and Gen AI
 
-**Total Workshop Duration: 4-5 hours**  
-**Prerequisites: None - We'll set up everything together**
+**Total Workshop Duration: 3.5-4 hours**  
+**Prerequisites: Just a web browser and internet connection!**
 
 ## What You'll Build
 
@@ -12,11 +12,15 @@ By the end of this workshop, you'll have:
 - ✅ Ability to make changes and deploy updates
 - ✅ Foundation for continued learning
 - ✅ Confidence to start your next web project
+- ✅ **Cloud-based development environment** you can access from anywhere
 
 ## Workshop Sections
 
-### [Part 1: Setting Up Your Development Environment](sections/01-setup.md) *(45-60 min)*
-Create accounts, install software, and learn terminal basics. We'll set up GitHub, Netlify, Claude, Cursor IDE, Node.js, and Git.
+### [Part 0: Prerequisites Check & Quick Setup](sections/00-prerequisites-check.md) *(5-10 min)*
+**NEW!** Simple browser check - no downloads or installations needed! We're using GitHub Codespaces for a cloud-based development environment.
+
+### [Part 1: Setting Up Your Development Environment](sections/01-setup.md) *(20-30 min)*
+Create accounts and launch your cloud development environment. Set up GitHub, Netlify, Claude AI, and your first Codespace.
 
 ### [Part 2: Understanding Our Tools and Framework](sections/02-tools-overview.md) *(30 min)*
 Learn about Astro, Tailwind CSS, GitHub, Netlify, and how AI will accelerate your development process.
@@ -47,16 +51,18 @@ Review what you've accomplished, get resources to take home, and plan your next 
 - **[Astro](https://astro.build)** - Modern static site generator
 - **[Tailwind CSS](https://tailwindcss.com)** - Utility-first CSS framework
 - **[GitHub](https://github.com)** - Version control and code hosting
+- **[GitHub Codespaces](https://github.com/features/codespaces)** - Cloud development environment
 - **[Netlify](https://netlify.com)** - Deployment and hosting platform
 - **[Claude AI](https://claude.ai)** - AI assistant for coding help
-- **[Cursor](https://cursor.sh)** - AI-powered code editor
+- **[VS Code](https://code.visualstudio.com)** - Code editor (runs in your browser via Codespaces)
 
 ## Getting Started
 
-1. Start with [Part 1: Setting Up Your Development Environment](sections/01-setup.md)
-2. Follow the sections in order
-3. Don't skip the setup - it's crucial for everything that follows
-4. Ask for help when you need it!
+1. **Start here:** [Part 0: Prerequisites Check & Quick Setup](sections/00-prerequisites-check.md) - Verify your system or quickly install what's missing
+2. Continue with [Part 1: Setting Up Your Development Environment](sections/01-setup.md)
+3. Follow the sections in order
+4. Don't skip the setup - it's crucial for everything that follows
+5. Ask for help when you need it!
 
 ## Workshop Philosophy
 
